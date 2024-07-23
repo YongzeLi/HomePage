@@ -12,7 +12,7 @@
     </header>
     <section>
         <h2>About Me</h2>
-        <p>I am a PhD student specializing in Computer Vision and Natural Language Processing. My research focuses on face detection and text summarization.</p>
+        <p>A PhD student specializing in Computer Vision and Natural Language Processing. My research focuses on face detection and text summarization.</p>
     </section>
     <section>
         <h2>Research Interests</h2>
