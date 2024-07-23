@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to LiYongze's Homepage</h1>
+        <h1>Welcome to Liyongze's Homepage</h1>
         <p>PhD Student in Computer Vision and Natural Language Processing</p>
     </header>
     <section>
